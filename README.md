@@ -1,1 +1,1 @@
-# github-action-security-advistory-to-work-item
+# github-action-security-advisory-to-work-item
